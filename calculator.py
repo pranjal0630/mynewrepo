@@ -1,4 +1,4 @@
-a = int(input("enter no. 1: "))
-b = int(input("enter no. 2: "))
+a = int(input("enter your no. 1: "))
+b = int(input("enter your no. 2: "))
 c = a + b
 print("your sum is:",c)
